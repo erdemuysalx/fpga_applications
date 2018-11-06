@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company:    Atılım University
+// Engineer:    R. Erdem Uysal
 // 
 // Create Date:    15:16:00 10/28/2018 
 // Design Name: 
 // Module Name:    PrimeDetector 
-// Project Name: 
-// Target Devices: 
+// Project Name:    PrimeDetector	
+// Target Devices:    Digilent BASYS2
 // Tool versions: 
 // Description: 
 //
@@ -18,6 +18,7 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
+
 module PrimeDetector(
     input [3:0] N,
     output reg F
