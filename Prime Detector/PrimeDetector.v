@@ -1,12 +1,12 @@
 //////////////////////////////////////////////////////////////////////////////////
-// Company:    Atılım University
-// Engineer:    R. Erdem Uysal
+// Company:   Atılım University
+// Engineer:   R. Erdem Uysal
 // 
-// Create Date:    15:16:00 10/28/2018 
+// Create Date:   15:16:00 10/28/2018 
 // Design Name: 
-// Module Name:    PrimeDetector 
-// Project Name:    PrimeDetector	
-// Target Devices:    Digilent BASYS2
+// Module Name:   PrimeDetector 
+// Project Name:   PrimeDetector	
+// Target Devices:   Digilent BASYS2
 // Tool versions: 
 // Description: 
 //
