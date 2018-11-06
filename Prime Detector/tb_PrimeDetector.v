@@ -22,7 +22,9 @@
 
 `timescale 1ns / 1ps
 module tb_PrimeDetector;
+	// Inputs
 	reg [3:0] N;
+	//Outputs
 	wire F;
 
 	// Instantiate the Unit Under Test (UUT)
@@ -50,6 +52,7 @@ module tb_PrimeDetector;
 		N = 14;	#10;
 		N = 15;	#10;
 		// Wait 100 ns for global reset to finish
+		#100;
 		// Add stimulus here
 	end
 endmodule
