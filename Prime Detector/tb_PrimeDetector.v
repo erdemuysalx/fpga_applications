@@ -1,12 +1,12 @@
 ////////////////////////////////////////////////////////////////////////////////
-// Company:	Atılım University	
-// Engineer:	R. Erdem Uysal
+// Company:   Atılım University	
+// Engineer:   R. Erdem Uysal
 //
 // Create Date:   15:17:29 10/28/2018
 // Design Name:   PrimeDetector
 // Module Name:   C:/Users/ASUS/Projects/Xilinx/PrimeDetector/tb_PrimeDetector.v
-// Project Name:  PrimeDetector
-// Target Device:  Digilent BASYS2
+// Project Name:   PrimeDetector
+// Target Device:   Digilent BASYS2
 // Tool versions:  
 // Description: 
 //
