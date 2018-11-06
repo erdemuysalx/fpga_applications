@@ -1,13 +1,12 @@
-`timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company:   Atılım University
+// Engineer:   R. Erdem Uysal
 // 
 // Create Date:    15:48:15 10/28/2018 
 // Design Name: 
 // Module Name:    SwitchEncoder 
-// Project Name: 
-// Target Devices: 
+// Project Name:   Switch Encoder
+// Target Devices:   Digilent BASYS2
 // Tool versions: 
 // Description: 
 //
@@ -18,6 +17,8 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
+
+`timescale 1ns / 1ps
 module SwitchEncoder(
     input [4:0] sw,
     output reg [6:0] seg7
