@@ -1,12 +1,12 @@
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
+// Company:   Atılım University
+// Engineer:   R. Erdem Uysal
 //
 // Create Date:   15:51:25 10/28/2018
 // Design Name:   SwitchEncoder
 // Module Name:   C:/Users/ASUS/Projects/Xilinx/SwitchEncoder/tb_SwitchEncoder.v
 // Project Name:  SwitchEncoder
-// Target Device:  
+// Target Device:   Digilent BASYS2
 // Tool versions:  
 // Description: 
 //
@@ -19,9 +19,12 @@
 // Additional Comments:
 // 
 ////////////////////////////////////////////////////////////////////////////////
+
 `timescale 1ns / 1ps
 module tb_SwitchEncoder;
+	// Inputs
 	reg [4:0] sw;
+	// Outputs
 	wire [6:0] seg7;
 	// Instantiate the Unit Under Test (UUT)
 	SwitchEncoder uut (
