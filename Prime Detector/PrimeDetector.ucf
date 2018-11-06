@@ -1,0 +1,5 @@
+NET "N[3]" LOC = B4;
+NET "N[2]" LOC = K3;
+NET "N[1]" LOC = L3;
+NET "N[0]" LOC = P11;
+NET "F"    LOC = G1;
